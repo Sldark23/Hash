@@ -7,9 +7,9 @@ const rl = readline.createInterface({
 });
 
 // Configurações - Substitua com suas informações
-const usuarioGitHub = 'seuusuario';
-const repositorioGitHub = 'seurepositorio';
-const versaoAtual = 'versao_atual';
+const usuarioGitHub = 'Sldark23';
+const repositorioGitHub = 'Hash';
+const versaoAtual = '1.0.0.0';
 
 function exibirTelaDeInicio() {
   console.log('Bem-vindo ao Meu Sistema');
